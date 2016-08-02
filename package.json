@@ -28,7 +28,10 @@
     "type": "git",
     "url": "https://github.com/raylwalters/Walters_Lab23.git"
   },
-  "keywords": [],
+  "keywords": [
+      "node",
+    "heroku",
+    "express"],
   "bugs": {
     "url": "https://github.com/raylwalters/Walters_Lab23/issues"
   },
