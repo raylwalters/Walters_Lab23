@@ -1,0 +1,37 @@
+{
+  "name": "lyric-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    // "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jasmine-core": "^2.4.1",
+    "jshint": "^2.9.2",
+    "karma": "^1.1.2",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raylwalters/Walters_Lab21.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/raylwalters/Walters_Lab21/issues"
+  },
+  "homepage": "https://github.com/raylwalters/Walters_Lab21#readme",
+  "description": ""
+}
